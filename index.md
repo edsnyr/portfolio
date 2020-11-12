@@ -1,47 +1,29 @@
-
-## View Resume
-
-Contact
+# Contact
 - edsnyr@gmail.com
 
+# Projects
+
+## Games - Unity - C#
+
+### Ring Puzzle Game
+- [Play Now](https://edsnyr.github.io/Ring-Puzzle-Game_Play/)
+- [GitHub Page](https://github.com/edsnyr/Ring-Puzzle-Game)
+- **Role:** Solo Developer
+
+**Description:** Emulates the puzzle-based combat found in _Paper Mario: The Origami King._ Spin and shift the rings to organize pieces in either columns of 4 or squares of 2 by 2.
 
 
+### Minimap Trainer
+- [Play Now](https://edsnyr.github.io/Minimap-Trainer_Play/)
+- [GitHub Page](https://github.com/edsnyr/Minimap-Trainer)
+- **Role:** Solo Developer
+
+**Description:** Inspired by League of Legends; this game asks you to track two enemies on your minimap while dodging projectiles. Press the on screen buttons or the Q and W keys to mark the top and bottom laners, respectively, either visible or missing. The intent is to get the player used to checking the minimap while they are distracted by what is happening around them. The player is scored by their reaction times.
 
 
-## Welcome to GitHub Pages
+### Turn Based RPG
+- [Play Now](https://edsnyr.github.io/Turn-Based-RPG_Play/)
+- [GitHub Page](https://github.com/edsnyr/Turn-Based-RPG)
+- **Role:** Solo Developer
 
-You can use the [editor on GitHub](https://github.com/edsnyr/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edsnyr/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Description:** An example project to create a turn-based RPG with flexible combat creation and powerups. Choose one or both of the playable characters and up to 4 enemies to create a battle with them. Winning player characters are awarded a powerup after each win and stats are saved between battles. UI still needs a lot of work here, but is functional.
