@@ -18,7 +18,15 @@
 - [GitHub Page](https://github.com/edsnyr/Minimap-Trainer)
 - **Role:** Solo Developer
 
-**Description:** Inspired by League of Legends; this game asks you to track two enemies on your minimap while dodging projectiles. Press the on screen buttons or the Q and W keys to mark the top and bottom laners, respectively, either visible or missing. The intent is to get the player used to checking the minimap while they are distracted by what is happening around them. The player is scored by their reaction times.
+**Description:** Inspired by _League of Legends_; this game asks you to track two enemies on your minimap while dodging projectiles. Press the on screen buttons or the Q and W keys to mark the top and bottom laners, respectively, either visible or missing. The intent is to get the player used to checking the minimap while they are distracted by what is happening around them. The player is scored by their reaction times.
+
+
+### RTS Prototype
+- [Play Now](https://edsnyr.github.io/RTS-Prototype_Play/)
+- [GitHub Page](https://github.com/edsnyr/RTS-Prototype)
+- **Role:** Solo Developer
+
+**Description:** Inspired by _Starcraft_, a very basic Real Time Strategy prototype. Units can be selected and given several different commands: moving, patrolling, or attacking. Spawners also allow for creating more units, and can be rallied to go to a specific position when they are spawned.
 
 
 ### Turn Based RPG
