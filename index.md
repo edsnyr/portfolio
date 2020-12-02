@@ -35,3 +35,9 @@
 - **Role:** Solo Developer
 
 **Description:** An example project to create a turn-based RPG with flexible combat creation and powerups. Choose one or both of the playable characters and up to 4 enemies to create a battle with them. Winning player characters are awarded a powerup after each win and stats are saved between battles. UI still needs a lot of work here, but is functional.
+
+### Far from Home - Global Game Jam 2019
+- [Game Jam Page](https://globalgamejam.org/2019/games/far-home-6)
+- **Role:** Co-Developer; Non-animation C# scripting
+
+**Description:** Developed for Global Game Jam 2019 in 48 hours by myself and one other developer. Notable contributions include the inventory system as well as the pointer around the character. The objective is to find pieces of wood to build a larger fire, allowing you to reach farther areas from your home before freezing.
