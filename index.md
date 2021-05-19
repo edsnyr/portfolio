@@ -1,5 +1,5 @@
 # Contact
-- edsnyr@gmail.com
+- hannahsnyr@gmail.com
 
 # Projects
 
